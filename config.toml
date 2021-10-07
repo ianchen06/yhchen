@@ -1,0 +1,4 @@
+baseURL = 'https://yhchen.github.io/'
+languageCode = 'en-us'
+title = 'YH Chen'
+theme = "ananke"

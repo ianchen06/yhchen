@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YH Chen</title>
+    <link>https://yhchen.github.io/</link>
+    <description>Recent content on YH Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Oct 2021 08:12:19 +0900</lastBuildDate><atom:link href="https://yhchen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://yhchen.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 08 Oct 2021 08:12:19 +0900</pubDate>
+      
+      <guid>https://yhchen.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
